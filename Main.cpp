@@ -11,9 +11,6 @@ int main() {
 	std::cin >> z;
 	std::cout << "The calculated result is: " << resultCal(x, y, z);
 
-
+    std::cin.get();
 	return 0;
-
-
-
 }
